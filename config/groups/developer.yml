@@ -13,10 +13,10 @@ attributes:
             - git-extras
             - findutils
             - gnu-sed
-            - heroku-toolbelt
+        #    - heroku-toolbelt
             - maven
             - tig
-            - mercurial
+        #    - mercurial
         cask_apps:
             - intellij-idea
             - visualvm
